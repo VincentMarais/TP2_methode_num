@@ -1,5 +1,5 @@
 # Programme TP1
-Programme qui éxécute le TP1
+Programme qui éxécute le TP2
 
 # Installation des bibliothèques Python avec pip
 
@@ -30,7 +30,7 @@ Exemple si vous avez téléchargé le fichié sur votre bureau:
 
 ``` bash
 
-cd Desktop\Analyse_numerique_TP1_ailette_de_refroidissement-main\Analyse_numerique_TP1_ailette_de_refroidissement-main
+cd Desktop\TP2_methode_num-main\TP2_methode_num-main
 ```
 
 4. Installez les bibliothèques nécessaires en exécutant la commande suivante :
