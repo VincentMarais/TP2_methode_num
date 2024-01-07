@@ -1,4 +1,4 @@
-# Programme TP1
+# Programme TP2
 Programme qui éxécute le TP2
 
 # Installation des bibliothèques Python avec pip
